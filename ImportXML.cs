@@ -11,7 +11,7 @@ namespace WpfApp1
 {
     public class ImportXML
     {
-        static string connectionstring = "Data Source=217.173.198.135:1522/orcltp.iaii.local; User Id=s95578; Password=s95578;";
+        static string connectionstring = "";
         public static void example(string table)
         {
             List<string> kolumnyy = new List<string>();
