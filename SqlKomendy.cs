@@ -9,7 +9,7 @@ namespace WpfApp1
 {
     public class SqlKomendy
     {
-        static string connectionstring = "Data Source=217.173.198.135:1522/orcltp.iaii.local; User Id=s95578; Password=s95578;";
+        static string connectionstring = "";
         public static int GetRowCount(string tabela)
         {
             int rowCount = 0;
