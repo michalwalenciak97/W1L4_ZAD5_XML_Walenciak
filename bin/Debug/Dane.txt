@@ -1,0 +1,2 @@
+insert into Dane (dane_id, e_mail, adres_adres_id, telefon) values(0, lwnubvtfrvidpxy, 0, 301812959)
+insert into Dane (dane_id, e_mail, adres_adres_id, telefon) values(1, uxwzuzbofiuhzgy, 1, 830383175)

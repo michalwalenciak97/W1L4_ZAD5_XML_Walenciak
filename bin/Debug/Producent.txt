@@ -1,0 +1,2 @@
+insert into Producent (id_producent,nazwa_producent) values(0, elmzdyojib)
+insert into Producent (id_producent,nazwa_producent) values(1, krjrkdswsz)

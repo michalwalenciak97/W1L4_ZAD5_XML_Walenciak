@@ -1,0 +1,2 @@
+insert into Pozycje_faktura (id_pozycja_faktury, cena_netto, cena_brutto, procent_vat, Usluga_id_Usluga, id_faktura, Czesci_id_czesci) values(0, 896,96, 896,96, 23, 0, 0, 0)
+insert into Pozycje_faktura (id_pozycja_faktury, cena_netto, cena_brutto, procent_vat, Usluga_id_Usluga, id_faktura, Czesci_id_czesci) values(1, 7516,39, 7516,39, 23, 0, 0, 0)

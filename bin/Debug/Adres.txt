@@ -1,0 +1,2 @@
+insert into Adres (adres_id,kod_poczt,miejsc,ulica,nr_domu,nr_mieszk) values(0, 48-230, dqzjmqespz, fmupqmbgju, 5143, 5143)
+insert into Adres (adres_id,kod_poczt,miejsc,ulica,nr_domu,nr_mieszk) values(1, 71-672, vtzvyafoxi, rcurxhdkyl, 8490, 8490)

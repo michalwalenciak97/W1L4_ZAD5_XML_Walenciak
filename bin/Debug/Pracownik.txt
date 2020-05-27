@@ -1,0 +1,2 @@
+insert into Klient (id_klient, imie, nazwisko, nr_dow_osobistego, dane_dane_id) values(0, ljgetalgg, ipsbchiss, ljg283545, 0)
+insert into Klient (id_klient, imie, nazwisko, nr_dow_osobistego, dane_dane_id) values(1, kwjxfqzls, onpydmuig, kwj335884, 1)

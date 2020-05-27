@@ -1,0 +1,2 @@
+insert into Faktura (id_faktura, data_uslugi, wartosc_netto, wartosc_brutto, nr_faktury_sprzedazy, wartosc_vat, forma_platnosci, Klient_id_klient) values(0, 03.07.2013 00:00:00, 8909,65, 8909,65, bj/8/8909, 23, bjhingpc0)
+insert into Faktura (id_faktura, data_uslugi, wartosc_netto, wartosc_brutto, nr_faktury_sprzedazy, wartosc_vat, forma_platnosci, Klient_id_klient) values(1, 26.09.2018 00:00:00, 9117,71, 9117,71, eo/9/9117, 23, eojttuoa0)

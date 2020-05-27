@@ -1,0 +1,51 @@
+C:\Users\Michał\Documents\Visual Studio 2017\Projects\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Michał\Documents\Visual Studio 2017\Projects\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Michał\Documents\Visual Studio 2017\Projects\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Michał\Documents\Visual Studio 2017\Projects\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\Michał\Documents\Visual Studio 2017\Projects\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Michał\Documents\Visual Studio 2017\Projects\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Michał\Documents\Visual Studio 2017\Projects\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Michał\Documents\Visual Studio 2017\Projects\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Michał\Documents\Visual Studio 2017\Projects\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Michał\Documents\Visual Studio 2017\Projects\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Michał\Documents\Visual Studio 2017\Projects\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Michał\Documents\Visual Studio 2017\Projects\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Michał\Documents\Visual Studio 2017\Projects\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Michał\Documents\Visual Studio 2017\Projects\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Michał\Documents\Visual Studio 2017\Projects\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Michał\Documents\Visual Studio 2017\Projects\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\Michał\Documents\Visual Studio 2017\Projects\WpfApp1\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Michał\Documents\Visual Studio 2017\Projects\WpfApp1 — kopia\bin\Debug\WpfApp1.exe.config
+C:\Users\Michał\Documents\Visual Studio 2017\Projects\WpfApp1 — kopia\bin\Debug\WpfApp1.exe
+C:\Users\Michał\Documents\Visual Studio 2017\Projects\WpfApp1 — kopia\bin\Debug\WpfApp1.pdb
+C:\Users\Michał\Documents\Visual Studio 2017\Projects\WpfApp1 — kopia\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Michał\Documents\Visual Studio 2017\Projects\WpfApp1 — kopia\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\Michał\Documents\Visual Studio 2017\Projects\WpfApp1 — kopia\obj\Debug\MainWindow.g.cs
+C:\Users\Michał\Documents\Visual Studio 2017\Projects\WpfApp1 — kopia\obj\Debug\App.g.cs
+C:\Users\Michał\Documents\Visual Studio 2017\Projects\WpfApp1 — kopia\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Michał\Documents\Visual Studio 2017\Projects\WpfApp1 — kopia\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Michał\Documents\Visual Studio 2017\Projects\WpfApp1 — kopia\obj\Debug\MainWindow.baml
+C:\Users\Michał\Documents\Visual Studio 2017\Projects\WpfApp1 — kopia\obj\Debug\WpfApp1.g.resources
+C:\Users\Michał\Documents\Visual Studio 2017\Projects\WpfApp1 — kopia\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Michał\Documents\Visual Studio 2017\Projects\WpfApp1 — kopia\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Michał\Documents\Visual Studio 2017\Projects\WpfApp1 — kopia\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Michał\Documents\Visual Studio 2017\Projects\WpfApp1 — kopia\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\Michał\Documents\Visual Studio 2017\Projects\WpfApp1 — kopia\obj\Debug\WpfApp1.exe
+C:\Users\Michał\Documents\Visual Studio 2017\Projects\WpfApp1 — kopia\obj\Debug\WpfApp1.pdb
+C:\Users\Michał\Documents\Visual Studio 2017\Projects\W1L4_ZAD5_XML_Walenciak\bin\Debug\WpfApp1.exe.config
+C:\Users\Michał\Documents\Visual Studio 2017\Projects\W1L4_ZAD5_XML_Walenciak\bin\Debug\WpfApp1.exe
+C:\Users\Michał\Documents\Visual Studio 2017\Projects\W1L4_ZAD5_XML_Walenciak\bin\Debug\WpfApp1.pdb
+C:\Users\Michał\Documents\Visual Studio 2017\Projects\W1L4_ZAD5_XML_Walenciak\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\Michał\Documents\Visual Studio 2017\Projects\W1L4_ZAD5_XML_Walenciak\obj\Debug\MainWindow.g.cs
+C:\Users\Michał\Documents\Visual Studio 2017\Projects\W1L4_ZAD5_XML_Walenciak\obj\Debug\App.g.cs
+C:\Users\Michał\Documents\Visual Studio 2017\Projects\W1L4_ZAD5_XML_Walenciak\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Michał\Documents\Visual Studio 2017\Projects\W1L4_ZAD5_XML_Walenciak\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Michał\Documents\Visual Studio 2017\Projects\W1L4_ZAD5_XML_Walenciak\obj\Debug\MainWindow.baml
+C:\Users\Michał\Documents\Visual Studio 2017\Projects\W1L4_ZAD5_XML_Walenciak\obj\Debug\WpfApp1.g.resources
+C:\Users\Michał\Documents\Visual Studio 2017\Projects\W1L4_ZAD5_XML_Walenciak\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Michał\Documents\Visual Studio 2017\Projects\W1L4_ZAD5_XML_Walenciak\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Michał\Documents\Visual Studio 2017\Projects\W1L4_ZAD5_XML_Walenciak\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Michał\Documents\Visual Studio 2017\Projects\W1L4_ZAD5_XML_Walenciak\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\Michał\Documents\Visual Studio 2017\Projects\W1L4_ZAD5_XML_Walenciak\obj\Debug\WpfApp1.exe
+C:\Users\Michał\Documents\Visual Studio 2017\Projects\W1L4_ZAD5_XML_Walenciak\obj\Debug\WpfApp1.pdb
+C:\Users\Michał\Documents\Visual Studio 2017\Projects\W1L4_ZAD5_XML_Walenciak\bin\Debug\Oracle.ManagedDataAccess.dll

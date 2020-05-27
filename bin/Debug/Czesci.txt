@@ -1,0 +1,2 @@
+insert into Czesci (id_czesci, kod_produktu, stan_czesci, cena_netto, cena_brutto, procent_vat, Producent_id_producent) values(0, lti28887395, iclkksz, 2888,83, 2888,83, 23, 0)
+insert into Czesci (id_czesci, kod_produktu, stan_czesci, cena_netto, cena_brutto, procent_vat, Producent_id_producent) values(1, rin14602799, vlwhkut, 1460,35, 1460,35, 23, 0)

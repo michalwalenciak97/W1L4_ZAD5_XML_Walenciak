@@ -1,0 +1,16 @@
+<? xml version = "1.0"+ ?>
+<Adres>
+<ADRES_ID="0">
+<KOD_POCZT>61-522</KOD_POCZT>
+<MIEJSC>uvazzpasus</MIEJSC>
+<ULICA>zrhuujhgzg</ULICA>
+<NR_DOMU>7373</NR_DOMU>
+<NR_MIESZK>7373</NR_MIESZK>
+</0>
+<ADRES_ID="1">
+<KOD_POCZT>55-788</KOD_POCZT>
+<MIEJSC>hjcmbnkvqm</MIEJSC>
+<ULICA>aptqewormq</ULICA>
+<NR_DOMU>5945</NR_DOMU>
+<NR_MIESZK>5945</NR_MIESZK>
+</1>

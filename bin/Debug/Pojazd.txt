@@ -1,0 +1,2 @@
+insert into Pojazd (nr_vin, marka, model, rok_produkcji, nr_rej, jaki_pojazd) values(erpv1113731113733, bvjrxot, bvjrxot, 2011, er 11137, erpvyk, )
+insert into Pojazd (nr_vin, marka, model, rok_produkcji, nr_rej, jaki_pojazd) values(zxxu2509172509173, uyyzaqg, uyyzaqg, 2012, zx 25091, zxxuhm, )
