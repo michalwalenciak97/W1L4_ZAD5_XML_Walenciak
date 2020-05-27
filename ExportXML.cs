@@ -10,7 +10,7 @@ namespace WpfApp1
 {
     public class ExportXML
     {
-        static string connectionstring = "Data Source=217.173.198.135:1522/orcltp.iaii.local; User Id=s95578; Password=s95578;";
+        static string connectionstring = "";
         public int columnCount;
         public string xml;
         
